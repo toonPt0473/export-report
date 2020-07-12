@@ -1,8 +1,20 @@
-start api server
+# How to start api service
+
+## Usage
+
+```bash
 cd api
 yarn
 yarn dev
 
-start frontend
+```
+
+# How to start react frontend
+
+## Usage
+
+```bash
 yarn
 yarn start
+
+```
